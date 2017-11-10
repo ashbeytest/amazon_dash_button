@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# 2017/11/10 Git•×‹­‰ï
+# 2017/11/10 Gitï¿½×‹ï¿½ï¿½ï¿½
 
 from scapy.all import *
 import urllib2
